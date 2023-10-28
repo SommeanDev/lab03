@@ -1,0 +1,17 @@
+{
+    "name": "company/utility",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Company\\Utility\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shivansh Mourya",
+            "email": "96974868+SommeanDev@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
